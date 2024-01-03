@@ -45,7 +45,7 @@ I am enthusiastic about transitioning into the realm of Quality Assurance and ex
 
       ![Screenshot_3](https://github.com/dannyhdyt/Portfolio/assets/153344198/375ba6d7-820a-4253-bb4c-a7076feaa429)
 
-  - Test case for the API Test result in a spreadsheet
+  - Creating a test case for the API Test result on a spreadsheet
 
     * [Spreadsheet](https://docs.google.com/spreadsheets/d/1eLpPjI_5D1IEdw49UsH8nHmyad2dv57cKC8NnoGjQe8/edit?usp=sharing) API Test example
     * [Postman Workspaces](https://www.postman.com/mission-administrator-38568381/workspace/tugas-api-testing/request/31739919-7e18883c-7131-41bb-bb3a-7f6621a409c6)
