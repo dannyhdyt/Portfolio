@@ -63,7 +63,7 @@ I am enthusiastic about transitioning into the realm of Quality Assurance and ex
 
 - We were assigned to create an API Automation script using the method `POST` / `GET` / `DELETE`, for tests written, we use the programming language `Java` and `Karate-JUnit5` Framework, Karate is an open-source test automation tool for tests written using Behaviour Driven Development (BDD). In the demo web, we are using [Swagger Petstore](https://petstore.swagger.io/) in the `user` section. Example script:
 
-```java
+```Gherkin
 Feature: User List
 
   Background: Setup
