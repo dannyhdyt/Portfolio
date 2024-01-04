@@ -1,15 +1,13 @@
 # Portfolio
 
-### Quick access index
+## Quick access index
 
 - [About Me](#about-me)
 - [Projects](#projects)
   - [API Test](#api-test)
     - [POSTMAN](#basic-api-test-using-postman)
     - [Karate Framework](#api-test-with-karate-framework)
-  - [Automation Testing](#automation-testing)
-
-
+  - [Web Automation](#web-automation)
 
 ## About me
 
@@ -20,8 +18,14 @@ I’ve recently embarked on a Quality Assurance Engineer 👨‍💻 mini boot c
 I am enthusiastic about transitioning into the realm of Quality Assurance and excited to apply these skills. The knowledge I have gained will be very useful for building a career in this field 🚀.
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+    <p align="left"> 
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/24ddbcfd-fa53-4f3a-8b08-c4716ea30d86" alt="linux" width="50" height="50"/> </a> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="44" height="44"/> </a> 
+        <a href="https://www.karatelabs.io/"> <img src="https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment/assets/153344198/e2afc8e6-a168-43bd-8feb-c8ab70673b28" alt="Karate" width="50" height="50"/> </a> 
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="43" height="43"/> </a>  
+    </p>
 
 ## Projects
 
@@ -31,7 +35,7 @@ I am enthusiastic about transitioning into the realm of Quality Assurance and ex
 
   <a href="https://www.postman.com//"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="325" height="100"/></a>
 
-  - in this project, I was assigned to create a test case with the method `GET` / `POST` / `DELETE`, and for the demo web I'm using [Swagger Petstore](https://petstore.swagger.io/) the `user` section
+  - in this project, we were assigned to create an API test case with the method `POST` / `GET` / `DELETE`, and for the demo web I'm using [Swagger Petstore](https://petstore.swagger.io/) the `user` section
 
     * `POST` : in this example, I'm sending a JSON body that contains the details of the new user and expect a response body and a `200 OK` response status code
       
@@ -52,7 +56,53 @@ I am enthusiastic about transitioning into the realm of Quality Assurance and ex
 
 #### API Test with Karate Framework
 
-### Automation Testing
+   <a href="https://github.com/karatelabs/karate"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/f876d1b9-49ab-455e-acdc-e3974bfcc4e4" width="325" height="160"/></a>
+
+- We were assigned to create an API Automation script using the method `POST` / `GET` / `DELETE`, for tests written, we use the programming language Java and Karate Framework, an open-source test automation tool for tests written using Behaviour Driven Development (BDD). In the demo web, we are using [Swagger Petstore](https://petstore.swagger.io/) in the `user` section. Example script:
+
+```java
+Feature: User List
+
+  Background: Setup
+    Given url baseURL
+    And print "--Create User Data--"
+
+  Scenario: Create User With List
+    * def body =
+    """
+    {
+        "id": 100,
+        "username": "blackout123",
+        "firstName": "blackout",
+        "lastName": "decepticon",
+        "email": "blackout@gmail.com",
+        "password": "password123",
+        "phone": "080989999",
+        "userStatus": 1
+    }
+    """
+    * def header = {Accept: 'application/json'}
+
+    When path "/user/createWithList"
+    And request body
+    And headers header
+    And method post
+    Then status 200
+    And print response
+    And match response == {code:200, type:'unknown', message:'ok'}
+```
+
+Behaviour-Driven Development (BDD) is a software development and testing approach that bridges the gap between technical and non-technical teams.
+
+an example of the test past will automatically generate a report on `html` file
+
+![l3LOnEAlvF](https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment/assets/153344198/b757f029-96a4-4658-82ca-c16fd45769cd)
+
+Please visit my [repository](https://github.com/dannyhdyt/DannyHidayat-API-Automation) on using the Karate framework and to setup the Dependency Configuration for more details.
+
+### Web Automation
+
+#### 
 
 ## CV
 
