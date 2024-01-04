@@ -33,7 +33,7 @@ I am enthusiastic about transitioning into the realm of Quality Assurance and ex
 
 #### Basic API Test Using POSTMAN
 
-  <a href="https://www.postman.com//"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="325" height="100"/></a>
+  <a href="https://www.postman.com//"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="90"/></a>
 
   - in this project, we were assigned to create an API test case with the method `POST` / `GET` / `DELETE`, and for the demo web I'm using [Swagger Petstore](https://petstore.swagger.io/) the `user` section
 
@@ -54,11 +54,14 @@ I am enthusiastic about transitioning into the realm of Quality Assurance and ex
     * [Spreadsheet](https://docs.google.com/spreadsheets/d/1eLpPjI_5D1IEdw49UsH8nHmyad2dv57cKC8NnoGjQe8/edit?usp=sharing) API Test example
     * [Postman Workspaces](https://www.postman.com/mission-administrator-38568381/workspace/tugas-api-testing/request/31739919-7e18883c-7131-41bb-bb3a-7f6621a409c6)
 
-#### API Test with Karate Framework
+#### API Test with Karate-JUnit5 Framework
 
-   <a href="https://github.com/karatelabs/karate"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/f876d1b9-49ab-455e-acdc-e3974bfcc4e4" width="325" height="160"/></a>
+<p align="left"> 
+  <a href="https://github.com/karatelabs/karate"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/f876d1b9-49ab-455e-acdc-e3974bfcc4e4" alt="selenium" height="80"/></a>
+  <a href="https://junit.org/junit5/"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/2782ef17-338c-407f-b948-218e83d17cde" height="80"/></a>
+</p>
 
-- We were assigned to create an API Automation script using the method `POST` / `GET` / `DELETE`, for tests written, we use the programming language Java and Karate Framework, an open-source test automation tool for tests written using Behaviour Driven Development (BDD). In the demo web, we are using [Swagger Petstore](https://petstore.swagger.io/) in the `user` section. Example script:
+- We were assigned to create an API Automation script using the method `POST` / `GET` / `DELETE`, for tests written, we use the programming language `Java` and `Karate-JUnit5` Framework, Karate is an open-source test automation tool for tests written using Behaviour Driven Development (BDD). In the demo web, we are using [Swagger Petstore](https://petstore.swagger.io/) in the `user` section. Example script:
 
 ```java
 Feature: User List
@@ -94,7 +97,7 @@ Feature: User List
 
 Behaviour-Driven Development (BDD) is a software development and testing approach that bridges the gap between technical and non-technical teams.
 
-an example of the test past will automatically generate a report on `html` file
+By integrating Karate with JUnit 5, we can write and execute Karate tests within the JUnit 5 framework, an example of using the JUnit Runner and `.html` reports that Karate outputs.
 
 ![l3LOnEAlvF](https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment/assets/153344198/b757f029-96a4-4658-82ca-c16fd45769cd)
 
