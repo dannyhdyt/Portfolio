@@ -114,12 +114,12 @@ Feel free to explore my [repository](https://github.com/dannyhdyt/DannyHidayat-A
 
 ### Web Automation
 
+#### Basic Test Case Assertion
+
 <p align="left"> 
   <a href="https://www.selenium.dev/"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/77822598-d1b0-4dfd-bc55-c4d604a241ed" alt="selenium" height="80"/></a>
   <a href="https://testng.org/doc/"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/8426927a-f787-459c-b99d-4e62a9ca1766" height="95"/></a>
 </p>
-
-#### Basic Test Case Assertion
 
 In this project, our objective is to create a scenario focusing on testing the login functionality of a web application. We're utilizing Selenium WebDriver and the TestNG framework for this task. To showcase the demonstration, we're interacting with [herokuapp.com](https://the-internet.herokuapp.com/login). 
 
