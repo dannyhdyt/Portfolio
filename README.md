@@ -72,7 +72,7 @@ This is an example test case to document and track API test results on a spreads
 
 Our task was to develop an API automation script utilizing the `POST` / `GET` / `DELETE` methods. For writing tests, we employed `Java` programming language and the `Karate-JUnit5` Framework. Karate, an open-source test automation tool, facilitates tests authored in the Behaviour Driven Development (BDD) style. In our demonstration, we interact with the [Swagger Petstore](https://petstore.swagger.io/) within the **user** section. Here is an example script: 
 
-```java
+```Gherkin
 Feature: User List
 
   Background: Setup
