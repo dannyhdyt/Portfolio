@@ -40,7 +40,7 @@ Transitioning into the realm of Quality Assurance excites me tremendously. I'm e
 
 ### API Test
 
-- #### Basic API Test With POSTMAN
+#### Basic API Test With POSTMAN
 
 <a href="https://www.postman.com//"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="90"/></a>
 
@@ -63,7 +63,7 @@ This is an example test case to document and track API test results on a spreads
   * [Spreadsheet](https://docs.google.com/spreadsheets/d/1eLpPjI_5D1IEdw49UsH8nHmyad2dv57cKC8NnoGjQe8/edit?usp=sharing) API Test example
   * [Postman Workspaces](https://www.postman.com/mission-administrator-38568381/workspace/tugas-api-testing/request/31739919-7e18883c-7131-41bb-bb3a-7f6621a409c6)
 
-- #### API Test with Karate-JUnit5 Framework
+#### API Test with Karate-JUnit5 Framework
 
 <p align="left"> 
   <a href="https://github.com/karatelabs/karate"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/f876d1b9-49ab-455e-acdc-e3974bfcc4e4" alt="karate" height="80"/></a>
@@ -119,7 +119,7 @@ Feel free to explore my [repository](https://github.com/dannyhdyt/DannyHidayat-A
   <a href="https://testng.org/doc/"><img src="https://github.com/dannyhdyt/Portfolio/assets/153344198/8426927a-f787-459c-b99d-4e62a9ca1766" height="95"/></a>
 </p>
 
-- #### Basic Test Case Assertion
+#### Basic Test Case Assertion
 
 In this project, our objective is to create a scenario focusing on testing the login functionality of a web application. We're utilizing Selenium WebDriver and the TestNG framework for this task. To showcase the demonstration, we're interacting with [herokuapp.com](https://the-internet.herokuapp.com/login). 
 
