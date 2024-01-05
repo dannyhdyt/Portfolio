@@ -156,9 +156,9 @@ This is an example of the Negative Test Case for a failed login page, expected t
 
 Please visit my repository for more web automation project
 
-- **[Yopmail-Extract-Text](https://github.com/dannyhdyt/Yopmail-Extract-Text)**, This project focuses on extracting content from webpages utilizing the `<iframe>` switch..
+- **[Yopmail-Extract-Text](https://github.com/dannyhdyt/Yopmail-Extract-Text)**, This project focuses on extracting content from webpages utilizing the `<iframe>` switch.
 
-- **[Web-Automation-Assignment](https://github.com/dannyhdyt/Web-Automation-Assignment)**, This repository is a web automation project that applies Object-Oriented Programming (OOP) principles and utilizes the TestNG framework, Maven for dependency management, and the Selenium automation tool.
+- **[Web-Automation-Assignment](https://github.com/dannyhdyt/Web-Automation-Assignment)**, This repository is a web automation project that applies Object-Oriented Programming (OOP) principles.
 
 ## CV
 
