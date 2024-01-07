@@ -38,8 +38,8 @@ Learn essential skills to become a QA Engineer, covering software testing, the s
       <img align="left" alt="Karatelabs" width="35px" src="https://seeklogo.com/images/K/karate-labs-logo-25F17C18E9-seeklogo.com.png" style="padding-right:10px;" />
       <img align="left" alt="Junit5" width="35px" src="https://junit.org/junit5/assets/img/junit5-logo.png" style="padding-right:10px;" />
       <img align="left" alt="Selenium" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
-      <img align="left" alt="Selenium" width="70px" src="https://miro.medium.com/v2/resize:fit:1400/1*4BHz11q6OIX4z8FqtZjjSg.png" style="padding-right:0px;" />
-      <img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" style="padding-right:10px;" />
+      <img align="left" alt="TestNG" width="70px" src="https://miro.medium.com/v2/resize:fit:1400/1*4BHz11q6OIX4z8FqtZjjSg.png" style="padding-right:0px;" />
+      <img align="left" alt="Katalon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" />
   </p>
   <br>
   <br>
