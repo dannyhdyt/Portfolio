@@ -71,7 +71,7 @@ In this project, our task was to develop API test cases using the `POST` / `GET`
 
     ![Screenshot_3](https://github.com/dannyhdyt/Portfolio/assets/153344198/375ba6d7-820a-4253-bb4c-a7076feaa429)
 
-This is an example test case to document and track API test results on a spreadsheet.
+I've created an example of an API test results template using a spreadsheet.
 
   * [Spreadsheet](https://docs.google.com/spreadsheets/d/1eLpPjI_5D1IEdw49UsH8nHmyad2dv57cKC8NnoGjQe8/edit?usp=sharing) API Test example
   * [Postman Workspaces](https://www.postman.com/mission-administrator-38568381/workspace/tugas-api-testing/request/31739919-7e18883c-7131-41bb-bb3a-7f6621a409c6)
