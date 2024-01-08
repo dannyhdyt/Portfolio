@@ -30,7 +30,7 @@ Transitioning into the realm of Quality Assurance excites me greatly. I'm eager 
 Learn essential skills to become a QA Engineer, covering software testing, the software test lifecycle, API manual testing, and hands-on reporting. <br>
 [Certificate link]()
 
-<h3 align="left">Technology used:</h3>
+<h3 align="left">Technologies used:</h3>
   <p align="left">
       <a href="https://www.linux.org/pages/download/"><img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /></a>
       <a href="https://git-scm.com/"><img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
