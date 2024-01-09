@@ -48,7 +48,7 @@ Learn essential skills to become a QA Engineer, covering software testing, the s
 
 ## 📄 CV
 
-For more detailed information about my work experience, please download my [CV](https://docs.google.com/spreadsheets/d/1jGU_4GCuh8qczWalsgxe3EFXYefXM3OMODD343DSVZg/edit#gid=654737595).
+For more detailed information about my work experience, please download my [CV](https://drive.google.com/file/d/1c4GX01zbtRoNL_2raiswNY7sVqRZBxe1/view?usp=sharing).
 
 ## 🧑‍🏭 Projects
 
