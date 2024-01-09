@@ -17,7 +17,7 @@
 
 ## Hi I'm Danny <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Previously, I worked in merchandise operations within the Social Commerce and E-Commerce sector, in which my task was refining pricing strategies, stock forecasting, and delivering comprehensive sales performance insights. 
+Previously, I worked in merchandise operations within the Social Commerce and E-Commerce sectors, in which my task was refining pricing strategies, stock forecasting, and delivering comprehensive sales performance insights. 
 
 However, I've always been curious and have a strong desire to learn about technology and IT. I’ve recently embarked on a Quality Assurance Engineer mini boot camp where I learned to create detailed test cases, delved into basic programming in Java, and learned tools like Postman for API testing and Katalon for automation.
 
@@ -67,15 +67,15 @@ Example work, please check the [Google Sheet](https://docs.google.com/spreadshee
 
 In this project, our task was to develop API test cases using the `POST` / `GET` / `DELETE` methods. Additionally, for demonstration purposes, we utilized the [Swagger Petstore](https://petstore.swagger.io/) within the **user** section.
 
-  * `POST` : in this example, I'm sending a JSON body that contains the details of the new user and expect a response body and a `200 OK` response status code
+  * `POST` : in this example, I'm sending a `JSON` body that contains the details of the new user and expect a response body and a `200 OK` response status code
     
     ![Screenshot_1](https://github.com/dannyhdyt/Portfolio/assets/153344198/fbdd3de8-c9a2-4d64-9b52-f4caf8bf2816)
 
-  * `GET` : This method is to retrieves information or a resource from a server. 
+  * `GET` : This method is to retrieve information or a resource from a server, with the `JSON` data that we created 
     
     ![Screenshot_2](https://github.com/dannyhdyt/Portfolio/assets/153344198/0bd3ca4c-ee68-42b0-91d5-07ac1aae1290)
 
-  * `DELETE` : This method is to Deletes a resource on the server. The request parameters are included in the URL. 
+  * `DELETE` : With this method, we can delete the user data that we previously created. Included the username parameter in the URL. 
 
     ![Screenshot_3](https://github.com/dannyhdyt/Portfolio/assets/153344198/375ba6d7-820a-4253-bb4c-a7076feaa429)
 
@@ -146,7 +146,7 @@ Feel free to explore my **[repository](https://github.com/dannyhdyt/DannyHidayat
 
 In this project, our objective is to create a scenario focusing on testing the login functionality of a web application. We're utilizing Selenium WebDriver and the TestNG framework for this task. To showcase the demonstration, we're interacting with [herokuapp.com](https://the-internet.herokuapp.com/login). 
 
-The test navigates to a login page, performs login actions, and verifies the login was successful by getting the element with `xpath` then expect if the element contain a **"Secure Area"** text. Here's an example:"
+The test navigates to a login page, performs login actions, and verifies the login was successful by getting the element with `xpath` then expect if the element contains a **"Secure Area"** text. Here's an example:"
 
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>   
 
@@ -190,7 +190,7 @@ visit my **repository** for more web automation project
   <a href="https://katalon.com/"><img src="https://cms-cdn.katalon.com/large_Katalon_logo_9dd79e2522.jpeg" height="150"/></a>
 </div>
 
-The project involves creating web automation using Katalon, focusing on [demoblaze](https://www.demoblaze.com) for the demoweb. The tasks include writing scenarios for signing up, signing in, and purchasing items up to the payment stage. This is an example of running a *Parallel Test*:
+The project involves creating web automation using Katalon, focusing on [demoblaze](https://www.demoblaze.com) for the demo web. The tasks include writing scenarios for signing up, signing in, and purchasing items up to the payment stage. This is an example of running a *Parallel Test*:
 
 ![katalon (1)](https://github.com/dannyhdyt/Portfolio/assets/153344198/0c608c10-7d49-430c-b7d3-d315269d80b0)
 
