@@ -13,7 +13,8 @@
 - [Projects](#-projects)
   - [Test Case & Bug Report](#test-case-and-bug-report)
   - [API Test](#api-test)
-  - [Web Automation](#web-automation)
+  - [Web Automation](#web-automation-testing)
+  - [Repository](#repository)
 
 ## Hi I'm Danny <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
@@ -136,7 +137,7 @@ By integrating Karate with JUnit 5, we can write and execute Karate tests within
 
 Feel free to explore my **[repository](https://github.com/dannyhdyt/DannyHidayat-API-Automation)** for more details on utilizing the Karate framework and configuring dependencies.
 
-### Web Automation
+### Web Automation Testing
 
 <div align="center">
   <h4>Basic Test Case Assertion</h4>
@@ -195,4 +196,8 @@ The project involves creating web automation using Katalon, focusing on [demobla
 ![katalon (1)](https://github.com/dannyhdyt/Portfolio/assets/153344198/0c608c10-7d49-430c-b7d3-d315269d80b0)
 
 For more detailed information, please visit my **[repository](https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment)** for Katalon Web Automation
+
+### Repository
+
+Explore more of my work examples on my [GitHub profile](https://github.com/dannyhdyt)
 
