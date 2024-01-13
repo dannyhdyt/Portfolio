@@ -33,7 +33,6 @@ Learn essential skills to become a QA Engineer, covering software testing, the s
 
 <h3 align="left">Technologies used:</h3>
   <p align="left">
-      <a href="https://www.linux.org/pages/download/"><img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /></a>
       <a href="https://git-scm.com/"><img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
       <a href="https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html"><img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
       <a href="https://www.postman.com/"><img align="left" alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" /></a>
