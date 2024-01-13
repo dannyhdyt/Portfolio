@@ -42,6 +42,7 @@ Learn essential skills to become a QA Engineer, covering software testing, the s
       <a href="https://www.selenium.dev/"><img align="left" alt="Selenium" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="padding-right:10px;" /></a>
       <a href="https://testng.org/doc/"><img align="left" alt="TestNG" width="70px" src="https://miro.medium.com/v2/resize:fit:1400/1*4BHz11q6OIX4z8FqtZjjSg.png" style="padding-right:0px;" /></a>
       <a href="https://katalon.com/"><img align="left" alt="Katalon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" /></a>
+      <a href="https://jmeter.apache.org/"><img align="left" alt="JMeter" width="40px" src="https://jmeter.apache.org/images/jmeter_square.svg" /></a>
   </p>
   <br>
   <br>
