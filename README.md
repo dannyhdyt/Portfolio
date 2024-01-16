@@ -29,7 +29,7 @@ Transitioning into the realm of Quality Assurance excites me greatly. I'm eager 
 **Quality Assurance Engineer** <br>
 *online course by Digital Skola* <br>
 Learn essential skills to become a QA Engineer, covering software testing, the software test lifecycle, API manual testing, and hands-on reporting. <br>
-[Certificate link]()
+[Certificate link](https://drive.google.com/file/d/1hj8iL1epH40KgzHsGoK14TL_iyntIg_1/view?usp=sharing)
 
 <h3 align="left">Technologies used:</h3>
   <p align="left">
