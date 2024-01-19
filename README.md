@@ -14,7 +14,7 @@
   - [Test Case & Bug Report](#test-case-and-bug-report)
   - [API Test](#api-test)
   - [Web Automation](#web-automation-testing)
-  - [Repository](#repository)
+- [Repository](#repository)
 
 ## Hi I'm Danny <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
